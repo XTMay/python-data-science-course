@@ -62,9 +62,9 @@ Welcome to the **Python for Data Science** course! This beginner-friendly series
 
 ## 📁 Folder Structure
 
+```
 📦python-data-science-course
 ├── README.md
-├── requirements.txt
 ├── notebooks/
 │   ├── 01_python_basics.ipynb
 │   ├── 02_numpy_intro.ipynb
@@ -73,12 +73,10 @@ Welcome to the **Python for Data Science** course! This beginner-friendly series
 │   ├── titanic.csv
 │   ├── iris.csv
 │   └── …
-├── projects/
-│   ├── titanic_classification/
-│   └── housing_price_regression/
-└── assets/
-└── images, charts, logos
-
+└── projects/
+    ├── titanic_classification/
+    └── housing_price_regression/
+``` 
 ---
 
 ## ✅ What You'll Learn
@@ -89,25 +87,6 @@ Welcome to the **Python for Data Science** course! This beginner-friendly series
 - Building ML models with `scikit-learn`
 - Performing end-to-end data science projects
 - Evaluating models and improving performance
-
----
-
-## 🛠️ Installation
-
-Make sure you have Python 3.8+ and Jupyter installed. You can install dependencies with:
-
-```bash
-pip install -r requirements.txt
-
-Or run notebooks in Google Colab (no setup needed).
-
-⸻
-
-🏁 Getting Started
-	1.	Clone this repo
-git clone https://github.com/your-username/python-data-science-course.git
-	2.	Open any .ipynb notebook using Jupyter or VS Code
-	3.	Start with notebooks/01_python_basics.ipynb and follow the order
 
 ⸻
 
@@ -136,10 +115,8 @@ Push your final notebooks to GitHub as a portfolio for job applications!
 
 📬 Contact
 
-Created by Your Name
-📧 Email: your.email@example.com
-💼 LinkedIn: YourLinkedInProfile
-
+Created by May
+📧 Email: may200852@gmail.com
 ⸻
 
 ⭐ Star This Repo!
