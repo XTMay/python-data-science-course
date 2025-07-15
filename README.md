@@ -88,35 +88,39 @@ Welcome to the **Python for Data Science** course! This beginner-friendly series
 - Performing end-to-end data science projects
 - Evaluating models and improving performance
 
-⸻
+---
 
 🧪 Sample Datasets
+
 	•	Titanic Dataset (Kaggle)
 	•	Iris Flower Dataset
 	•	California Housing Prices
 	•	Synthetic data for practice
 
-⸻
+---
 
 🌟 Final Projects
+
 	•	🧬 Titanic Survival Prediction (Classification)
 	•	🏠 House Price Prediction (Regression)
 
 Push your final notebooks to GitHub as a portfolio for job applications!
 
-⸻
+---
 
 💡 Want More?
+
 	•	Add interview prep exercises (EDA, ML case studies)
 	•	Deploy a simple ML model with Streamlit
 	•	Bonus lesson: SQL with pandas
 
-⸻
+---
 
 📬 Contact
 
 Created by May
 📧 Email: may200852@gmail.com
+
 ⸻
 
 ⭐ Star This Repo!
